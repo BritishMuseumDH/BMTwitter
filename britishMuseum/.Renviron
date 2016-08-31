@@ -1,0 +1,3 @@
+cat("TWITTER_PAT=/Users/danielpett/Documents/research/twitter/britshMuseum/twitterTokens\n",
+file = paste0(home_directory, "/.Renviron"),
+append = TRUE)
